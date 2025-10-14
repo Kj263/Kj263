@@ -40,7 +40,7 @@ I'm a Computer Science and Sustainability graduate from Oregon State University,
 
 ## 📬 Get in Touch
 
-- 📧 [kjirstenfastabend@gmail.com]  
+- 📧 [kjirstenfastabend@gmail.com](kjirstenfastabend@gmail.com)  
 - 🌐 [LinkedIn Profile](www.linkedin.com/in/kjirsten-f-3625691a8)
 - 🗺️ Open to software programming, network analyst, and IT support roles
 
