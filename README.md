@@ -28,9 +28,9 @@ I'm a Computer Science and Sustainability graduate from Oregon State University,
 ## 🌱 Currently Exploring
 
 - Network security and infrastructure support  
-- Real-world applications of diagnostics and data analytics  
-- My hobby: Korean language and grammar
+- Real-world applications of diagnostics and data analytics
 - CLI-based troubleshooting and configuration management
+- My hobby: Korean language and grammar
 
 ## 🏆 Achievements
 
