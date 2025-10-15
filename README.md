@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kjirsten
 
-I'm a Computer Science and Sustainability graduate from Oregon State University, passionate about solving real-world problems through technology. I'm passionate about networking and data analysis, with a strong foundation in system troubleshooting and data-driven decision-making. I enjoy tackling real-world challenges, especially those related to sustainability, infrastructure, and public service.
+I'm a Computer Science and Sustainability graduate from Oregon State University, passionate about solving real-world problems through technology. I enjoy diving into topics like networking and data analysis, and have a strong foundation in system troubleshooting and data-driven decision-making. I thrive when tackling real-world challenges, especially those related to sustainability, infrastructure, and public service.
 
 ## 😄 Pronouns: She/Her
 
