@@ -6,12 +6,12 @@ I'm a Computer Science and Sustainability graduate from Oregon State University,
 
 ## 🚀 About Me
 
-- 🎓 Dual B.S. in Computer Science and Sustainability, summa cum laude
-- 🧠 Completed advanced coursework in networking, cybersecurity, and environmental systems
-- 🛠️ Currently preparing for the **CCNA certification exam** (scheduled for November 2025)
-- 🧪 Hands-on experience with **Cisco Packet Tracer**, **Wireshark**, and CLI tools like `ping`, `traceroute`, and `arp`
-- 📦 Background in logistics and procurement, with experience using **Oracle**, **Power BI**, and RESTful APIs
-- 🔬 Conducted research on optimizing energy efficiency in satellite communications at the University of Florida
+- Dual B.S. in Computer Science and Sustainability, summa cum laude
+- Completed advanced coursework in networking, cybersecurity, and environmental systems
+- Currently preparing for the **CCNA certification exam** (scheduled for November 2025)
+- Hands-on experience with **Cisco Packet Tracer**, **Wireshark**, and CLI tools like `ping`, `traceroute`, and `arp`
+- Background in logistics and procurement, with experience using **Oracle**, **Power BI**, and RESTful APIs
+- Conducted research on optimizing energy efficiency in satellite communications at the University of Florida
 
 ## 🏅 Microcredentials & Certifications
 - [Programming Fundamentals](https://www.credly.com/badges/3889dcc0-5769-4c71-9e6a-15922246eeaa/public_url), Oregon State University
@@ -34,9 +34,9 @@ I'm a Computer Science and Sustainability graduate from Oregon State University,
 
 ## 🏆 Achievements
 
-- 🌟 Led cross-functional logistics projects that reduced delivery delays and improved supply chain visibility  
-- 📊 Managed vendor negotiations and Oracle-based procurement workflows  
-- 🧩 Diagnosed and resolved static routing and switch connectivity issues in simulated networks  
+- Led cross-functional logistics projects that reduced delivery delays and improved supply chain visibility  
+- Managed vendor negotiations and Oracle-based procurement workflows  
+- Diagnosed and resolved static routing and switch connectivity issues in simulated networks  
 
 ## 📬 Get in Touch
 
